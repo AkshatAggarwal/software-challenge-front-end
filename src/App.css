@@ -1,11 +1,22 @@
-.App {
-  text-align: center;
-  background-color: #282c33;
+body{
+  background: linear-gradient(to bottom, #2d91c2 0%, #1e528e 100%);
   min-height: 100vh;
+}
+.App {
+  width:80%;
+  margin: 0 auto;
+  text-align: center;
   display: flex;
   flex-direction: column;
   font-size: calc(10px + 2vmin);
   color: white;
   padding: 20px;
+}
+form{
+  margin-bottom:20px; 
+}
+button{
+  margin:5px;
+  border-radius:5px;
 }
 

@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
 import ScanContainer from "./ScanContainer";
+import {SOFTCHALL} from './const';
 
 class App extends Component {
 
@@ -8,7 +9,7 @@ class App extends Component {
         return (
             <div className="App">
                 <header className="App-header">
-                    Software Challenge
+                    {SOFTCHALL}
                 </header>
                 <ScanContainer />
             </div>

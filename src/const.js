@@ -1,0 +1,21 @@
+export const SELECT="Select";
+export const SOFTCHALL="Software Challenge";
+export const SCANS="Scans:"
+export const ASEC="Ascending";
+export const DESC="Descending"
+export const AtoZ="AtoZ";
+export const ZtoA="ZtoA";
+export const SORTBYELEVATION="Sort by Elevation";
+export const SORTBYNAME="Sort By Name";
+export const SORTBYUSER="Sort By User Name";
+export const EDIT="Edit";
+export const USERNAME="Username";
+export const EDITNAME="Edit Scan Name";
+export const EDITSCANDATA="Edit Scan Data";
+export const SAVE="Save";
+export const CLOSE="Close";
+export const  ADDSCAN="Add Scan"; 
+export const ADDSCANNAME= "Add Scan Name";
+export const ADDELEVATIONMIN="Add Elevation Min";
+export const ADDELEVATIONMAX="Add Elevation Max";
+
